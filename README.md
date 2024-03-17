@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a systems engineering student from Wrocław.
+I am a systems engineering student from Wrocław 
+Working mostly in Python
 
 
 <!--

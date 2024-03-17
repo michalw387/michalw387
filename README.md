@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a systems engineering student from Wrocław 
-<br> Working mostly in Python
+
 
 
 <!--
